@@ -24,9 +24,24 @@ I’m proficient in **Node.js, Express.js, React.js, SQL, and Python3**, and hav
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Siddharthds45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siddharthds45&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthds45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+<!-- General Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Siddharthds45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Siddharthds45's GitHub Stats" />
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com/?user=Siddharthds45&theme=tokyonight&hide_border=true" alt="Siddharthds45's GitHub Streak" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthds45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
 
 ---
 
