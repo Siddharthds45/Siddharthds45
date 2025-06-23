@@ -1,5 +1,5 @@
 ### 👋 About Me
-I’m a passionate **Full Stack Developer** with solid experience in **MERN Stack** and **Spring Boot**, currently exploring advanced backend patterns and mastering data structures and algorithms in **Java**.<br/>
+I’m a passionate **Full Stack Developer** with solid experience in **MERN Stack**, currently exploring advanced backend patterns and mastering data structures and algorithms in **Java**.<br/>
 I’m looking to collaborate on challenging and innovative **web development projects**.<br/>
 I’m proficient in **Node.js, Express.js, React.js, SQL, and Python3**, and have worked with tools like **ADB** and frameworks like **Spring Boot**.<br/>
 **Fun fact:** I’m an avid problem solver — when I’m not coding, you can find me tackling competitive programming questions.
@@ -8,7 +8,6 @@ I’m proficient in **Node.js, Express.js, React.js, SQL, and Python3**, and hav
 
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python3](https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
